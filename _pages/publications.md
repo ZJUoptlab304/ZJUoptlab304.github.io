@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "出版"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">所有出版物同样可以在<a href="{{site.author.googlescholar}}"> Google Scholar </a>主页检索得到。</div>
 {% endif %}
 
 {% include base_path %}
