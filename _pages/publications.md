@@ -27,7 +27,7 @@ author_profile: true
 2. Sun L, Sakaridis C, Liang J, Jiang Q, Yang K, Sun P, Ye Y, Wang K, Gool LV. **Event-based fusion for motion deblurring with cross-modal attention.** In European conference on computer vision, pp. 412-428, 2022, Cham: Springer Nature Switzerland.
 3. Wang Z, Yang K, Shi H, Li P, Gao F, Wang K. **LF-VIO: A visual-inertial-odometry framework for large field-of-view cameras with negative plane.** In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 4423-4430, IEEE.
 4. Chen J, Shi H, Ye Y, Yang K, Sun L, Wang K. **Efficient human pose estimation via 3d event point cloud.** In 2022 International Conference on 3D Vision (3DV), pp. 1-10, 2022, IEEE.
-5. Gao S, Sun L, Jiang Q, Shi H, Wang J, Wang K, Bai J. **Compact and lightweight panoramic annular lens for computer vision tasks.** Optics Express, 30(17), pp. 29940-29956, 2022. <p style="color:red;">Editors' Pick</p>
+5. Gao S, Sun L, Jiang Q, Shi H, Wang J, Wang K, Bai J. **Compact and lightweight panoramic annular lens for computer vision tasks.** Optics Express, 30(17), pp. 29940-29956, 2022. <b style="color:red;">Editors' Pick</b>
 6. Zhang Y, Ren Y, Chen J, Hu Z, Bai J, Zhao L, Wang K. **Fast testing of partial camera lenses based on a liquid crystal spatial light modulator.** Applied Optics. 61(22), pp.6420-6429, 2022.
 7. Shi H, Zhou Y, Yang K, Yin X, Wang K. **CSFlow: Learning optical flow via cross strip correlation for autonomous driving.** In 2022 IEEE intelligent vehicles symposium (IV), pp. 1851-1858, 2022.
 8. Jiang Q, Shi H, Sun L, Gao S, Yang K, Wang K. **Annular computational imaging: Capture clear panoramic images through simple lens.** IEEE Transactions on Computational Imaging, 8, pp. 1250-1264, 2022.

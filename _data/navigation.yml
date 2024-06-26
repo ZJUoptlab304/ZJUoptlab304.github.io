@@ -7,16 +7,14 @@ main:
   #   url: /talks/    
 
   - title: "科研"
-    url: /research/  
+    url: /year-archive/  
 
   - title: "成员"
-    url: /team/    
-    
-  - title: "出版"
-    url: /publications/
+    url: /team/
         
   - title: "课题组生活"
     url: /beauty-life/
+
     
   # - title: "CV"
   #   url: /cv/
