@@ -12,56 +12,56 @@ author_profile: true
 
 ## 2023年
 
-1. Xu X, Gu D, Gao S, Sun L, Lu X, Wang K, Bai J. **Back to Michelson interferometer: a precise inspection system for industrial intricate structures defect detection.** Measurement Science and Technology, 35(3), p. 035026. 
-2. Wang Z, Yang K, Shi H, Li P, Gao F, Bai J, Wang K. **LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras With Negative Imaging Plane on Mobile Agents.** IEEE Transactions on Automation Science and Engineering, 2023.
-3. Shi Z, Shi H, Yang K, Yin Z, Lin Y, Wang K. **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View.** In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 1333-1340. IEEE.
-4. Yi Z, Shi H, Yang K, Jiang Q, Ye Y, Wang Z, Ni H, Wang K. **FocusFlow: Boosting Key-Points Optical Flow Estimation for Autonomous Driving.** IEEE Transactions on Intelligent Vehicles, 2023.
-5. Zhang S, Sun L, Wang K. **A Multi-Scale Recurrent Framework for Motion Segmentation with Event Camera.** IEEE Access, 2023.
-6. Bao Y, Sun L, Ma Y, Gu D, Wang K. **Improving fast auto-focus with event polarity.** Optics Express, 31(15), pp. 24025-24044, 2023.
-7. Shi H, Zhou Y, Yang K, Yin X, Wang Z, Ye Y, Yin Z, Meng S, Li P, Wang K. **PanoFlow: Learning 360° Optical Flow for Surrounding Temporal Understanding.** IEEE Transactions on Intelligent Transportation Systems, 2023.
-8. Sun L, Sakaridis C, Liang J, Sun P, Cao J, Zhang K, Jiang Q, Wang K, Van Gool L. **Event-based frame interpolation with ad-hoc deblurring.** In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 18043-18052, 2023, IEEE. 
+1. Xu X, Gu D, Gao S, Sun L, Lu X, Wang K, Bai J. **Back to Michelson interferometer: a precise inspection system for industrial intricate structures defect detection.** Measurement Science and Technology, 35(3), p. 035026. <a href="https://iopscience.iop.org/article/10.1088/1361-6501/ad1672/meta">[IOP]</a>
+2. Wang Z, Yang K, Shi H, Li P, Gao F, Bai J, Wang K. **LF-VISLAM: A SLAM Framework for Large Field-of-View Cameras With Negative Imaging Plane on Mobile Agents.** IEEE Transactions on Automation Science and Engineering, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10294179/">[IEEExplore]</a>
+3. Shi Z, Shi H, Yang K, Yin Z, Lin Y, Wang K. **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View.** In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 1333-1340. IEEE. <a href="https://ieeexplore.ieee.org/abstract/document/10421857/">[IEEExplore]</a>
+4. Yi Z, Shi H, Yang K, Jiang Q, Ye Y, Wang Z, Ni H, Wang K. **FocusFlow: Boosting Key-Points Optical Flow Estimation for Autonomous Driving.** IEEE Transactions on Intelligent Vehicles, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10258386/">[IEEExplore]</a> 
+5. Zhang S, Sun L, Wang K. **A Multi-Scale Recurrent Framework for Motion Segmentation with Event Camera.** IEEE Access, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10196434/">[IEEExplore]</a>
+6. Bao Y, Sun L, Ma Y, Gu D, Wang K. **Improving fast auto-focus with event polarity.** Optics Express, 31(15), pp. 24025-24044, 2023. <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-15-24025&id=532555">[OSA]</a>
+7. Shi H, Zhou Y, Yang K, Yin X, Wang Z, Ye Y, Yin Z, Meng S, Li P, Wang K. **PanoFlow: Learning 360° Optical Flow for Surrounding Temporal Understanding.** IEEE Transactions on Intelligent Transportation Systems, 2023. <a href="https://ieeexplore.ieee.org/abstract/document/10041956/">[IEEExplore]</a>
+8. Sun L, Sakaridis C, Liang J, Sun P, Cao J, Zhang K, Jiang Q, Wang K, Van Gool L. **Event-based frame interpolation with ad-hoc deblurring.** In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 18043-18052, 2023, IEEE. <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Event-Based_Frame_Interpolation_With_Ad-Hoc_Deblurring_CVPR_2023_paper.html">[CVF]</a>
 
 ## 2022年
 
-1. Gao S, Yang K, Shi H, Wang K, Bai J. **Review on panoramic imaging and its applications in scene understanding.** IEEE Transactions on Instrumentation and Measurement, 71, 1-34, 2022.
-2. Sun L, Sakaridis C, Liang J, Jiang Q, Yang K, Sun P, Ye Y, Wang K, Gool LV. **Event-based fusion for motion deblurring with cross-modal attention.** In European conference on computer vision, pp. 412-428, 2022, Cham: Springer Nature Switzerland.
-3. Wang Z, Yang K, Shi H, Li P, Gao F, Wang K. **LF-VIO: A visual-inertial-odometry framework for large field-of-view cameras with negative plane.** In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 4423-4430, IEEE.
-4. Chen J, Shi H, Ye Y, Yang K, Sun L, Wang K. **Efficient human pose estimation via 3d event point cloud.** In 2022 International Conference on 3D Vision (3DV), pp. 1-10, 2022, IEEE.
-5. Gao S, Sun L, Jiang Q, Shi H, Wang J, Wang K, Bai J. **Compact and lightweight panoramic annular lens for computer vision tasks.** Optics Express, 30(17), pp. 29940-29956, 2022. <b style="color:red;">Editors' Pick</b>
-6. Zhang Y, Ren Y, Chen J, Hu Z, Bai J, Zhao L, Wang K. **Fast testing of partial camera lenses based on a liquid crystal spatial light modulator.** Applied Optics. 61(22), pp.6420-6429, 2022.
-7. Shi H, Zhou Y, Yang K, Yin X, Wang K. **CSFlow: Learning optical flow via cross strip correlation for autonomous driving.** In 2022 IEEE intelligent vehicles symposium (IV), pp. 1851-1858, 2022.
-8. Jiang Q, Shi H, Sun L, Gao S, Yang K, Wang K. **Annular computational imaging: Capture clear panoramic images through simple lens.** IEEE Transactions on Computational Imaging, 8, pp. 1250-1264, 2022.
+1. Gao S, Yang K, Shi H, Wang K, Bai J. **Review on panoramic imaging and its applications in scene understanding.** IEEE Transactions on Instrumentation and Measurement, 71, 1-34, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9927463/">[IEEExplore]</a>
+2. Sun L, Sakaridis C, Liang J, Jiang Q, Yang K, Sun P, Ye Y, Wang K, Gool LV. **Event-based fusion for motion deblurring with cross-modal attention.** In European conference on computer vision, pp. 412-428, 2022, Cham: Springer Nature Switzerland. <a href="https://link.springer.com/chapter/10.1007/978-3-031-19797-0_24">[Springer]</a>
+3. Wang Z, Yang K, Shi H, Li P, Gao F, Wang K. **LF-VIO: A visual-inertial-odometry framework for large field-of-view cameras with negative plane.** In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 4423-4430, IEEE. <a href="https://ieeexplore.ieee.org/abstract/document/9981217/">[IEEExplore]</a>
+4. Chen J, Shi H, Ye Y, Yang K, Sun L, Wang K. **Efficient human pose estimation via 3d event point cloud.** In 2022 International Conference on 3D Vision (3DV), pp. 1-10, 2022, IEEE. <a href="https://ieeexplore.ieee.org/abstract/document/10044402">[IEEExplore]</a>
+5. Gao S, Sun L, Jiang Q, Shi H, Wang J, Wang K, Bai J. **Compact and lightweight panoramic annular lens for computer vision tasks.** Optics Express, 30(17), pp. 29940-29956, 2022. <b style="color:red;">Editors' Pick</b> <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-17-29940&id=487064">[OSA]</a>
+6. Zhang Y, Ren Y, Chen J, Hu Z, Bai J, Zhao L, Wang K. **Fast testing of partial camera lenses based on a liquid crystal spatial light modulator.** Applied Optics. 61(22), pp.6420-6429, 2022. <a href="https://opg.optica.org/ao/fulltext.cfm?uri=ao-61-22-6420&id=480242">[OSA]</a>
+7. Shi H, Zhou Y, Yang K, Yin X, Wang K. **CSFlow: Learning optical flow via cross strip correlation for autonomous driving.** In 2022 IEEE intelligent vehicles symposium (IV), pp. 1851-1858, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9827341/">[IEEExplore]</a>
+8. Jiang Q, Shi H, Sun L, Gao S, Yang K, Wang K. **Annular computational imaging: Capture clear panoramic images through simple lens.** IEEE Transactions on Computational Imaging, 8, pp. 1250-1264, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/10021856/">[IEEExplore]</a>
 
 ## 2021年
 
-1. Yan R, Yang K, Wang K. **NLFNet: Non-local fusion towards generalized multimodal semantic segmentation across RGB-depth, polarization, and thermal images.** In 2021 IEEE international conference on robotics and biomimetics (ROBIO), pp. 1129-1135, IEEE.
-2. 陈浩, 杨恺伦, 胡伟健, 白剑, 汪凯巍. **基于全景环带成像的语义视觉里程计.** Acta Optica Sinica, 41(22), p.2215002, 2021
-3. Zhou K, Yang K, Wang K. **Panoramic depth estimation via supervised and unsupervised learning in indoor scenes.** Applied optics, 60(26), pp. 8188-8197, 2021.
-4. Chen H, Hu W, Yang K, Bai J, Wang K. **Panoramic annular SLAM with loop closure and global optimization.** Applied Optics, 60(21), pp. 6264-6274, 2021.
-5. Ji Z, Hu W, Wang Z, Yang K, Wang K. **Seeing through events: Real-time moving object sonification for visually impaired people using event-based camera.** Sensors, 21(10), p. 3558, 2021.
-6. Sun L, Wang J, Yang K, Wu K, Zhou X, Wang K, Bai J. **Aerial-PASS: panoramic annular scene segmentation in drone videos.** In 2021 European Conference on Mobile Robots (ECMR), pp. 1-6. IEEE.
-7. Fei W, Zhao L, Bai J, Zhou X, Hou J, Yan H, Wang K. **Feature-based characterization and extraction of ripple errors over the large square aperture.** Optics Express, 29(6), pp. 8296-311, 2021.
-8. Cheng R, Hu W, Chen H, Fang Y, Wang K, Xu Z, Bai J. **Hierarchical visual localization for visually impaired people using multimodal images.** Expert Systems with Applications. 165, p. 113743, 2021.
-9. Xiang K, Yang K, Wang K. **Polarization-driven semantic segmentation via efficient attention-bridged fusion.** Optics Express, 29(4), pp. 4802-4820, 2021.
+1. Yan R, Yang K, Wang K. **NLFNet: Non-local fusion towards generalized multimodal semantic segmentation across RGB-depth, polarization, and thermal images.** In 2021 IEEE international conference on robotics and biomimetics (ROBIO), pp. 1129-1135, IEEE. <a href="https://ieeexplore.ieee.org/abstract/document/9739390">[IEEExplore]</a>
+2. 陈浩, 杨恺伦, 胡伟健, 白剑, 汪凯巍. **基于全景环带成像的语义视觉里程计.** Acta Optica Sinica, 41(22), p.2215002, 2021. <a href="https://www.researching.cn/ArticlePdf/m00006/2021/41/22/2215002.pdf">[PDF]</a>
+3. Zhou K, Yang K, Wang K. **Panoramic depth estimation via supervised and unsupervised learning in indoor scenes.** Applied optics, 60(26), pp. 8188-8197, 2021. <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-60-26-8188">[OSA]</a>
+4. Chen H, Hu W, Yang K, Bai J, Wang K. **Panoramic annular SLAM with loop closure and global optimization.** Applied Optics, 60(21), pp. 6264-6274, 2021. <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-60-21-6264">[OSA]</a>
+5. Ji Z, Hu W, Wang Z, Yang K, Wang K. **Seeing through events: Real-time moving object sonification for visually impaired people using event-based camera.** Sensors, 21(10), p. 3558, 2021. 
+6. Sun L, Wang J, Yang K, Wu K, Zhou X, Wang K, Bai J. **Aerial-PASS: panoramic annular scene segmentation in drone videos.** In 2021 European Conference on Mobile Robots (ECMR), pp. 1-6. IEEE. <a href="https://ieeexplore.ieee.org/abstract/document/9568802">[IEEExplore]</a>
+7. Fei W, Zhao L, Bai J, Zhou X, Hou J, Yan H, Wang K. **Feature-based characterization and extraction of ripple errors over the large square aperture.** Optics Express, 29(6), pp. 8296-311, 2021. <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-6-8296&id=448760">[OSA]</a>
+8. Cheng R, Hu W, Chen H, Fang Y, Wang K, Xu Z, Bai J. **Hierarchical visual localization for visually impaired people using multimodal images.** Expert Systems with Applications. 165, p. 113743, 2021. <a href="https://pure.hud.ac.uk/ws/files/21313140/ESWA_D_20_01112R2_1_.pdf">[PDF]</a>
+9. Xiang K, Yang K, Wang K. **Polarization-driven semantic segmentation via efficient attention-bridged fusion.** Optics Express, 29(4), pp. 4802-4820, 2021. <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-4-4802&id=447070">[OSA]</a>
 
 ## 2020年
 
-1. K. Yang, X. Hu, Y. Fang, K. Wang, R. Stiefelhagen. **Omnisupervised Omnidirectional Semantic Segmentation.** IEEE Transactions on Intelligent Transportation Systems, 2020.
+1. K. Yang, X. Hu, Y. Fang, K. Wang, R. Stiefelhagen. **Omnisupervised Omnidirectional Semantic Segmentation.** IEEE Transactions on Intelligent Transportation Systems, 2020. <a href="https://ieeexplore.ieee.org/document/9204767">[IEEExplore]</a>
 2. L. Sun, K. Yang, X. Hu, W. Hu, K. Wang. **Real-Time Fusion Network for RGB-D Semantic Segmentation Incorporating Unexpected Obstacle Detection for Road-Driving Images.** IEEE Robotics and Automation Letters, 5(4), pp. 5558-5565, 2020.
-3. W. Hu, K. Wang, K. Yang, R. Cheng, Y. Ye, L. Sun, Z. Xu. **A Comparative Study in Real-Time Scene Sonification for Visually Impaired People.** Sensors, 20(11), p. 3222, 2020.
-4. Y. Fang, K. Yang, R. Cheng, K. Wang. **A Panoramic Localizer Based on Coarse-to-Fine Descriptors for Navigation Assistance.** Sensors, 20(15), p. 4177, 2020.
+3. W. Hu, K. Wang, K. Yang, R. Cheng, Y. Ye, L. Sun, Z. Xu. **A Comparative Study in Real-Time Scene Sonification for Visually Impaired People.** Sensors, 20(11), p. 3222, 2020. <a href="https://www.mdpi.com/1424-8220/20/11/3222/pdf">[PDF]</a>
+4. Y. Fang, K. Yang, R. Cheng, K. Wang. **A Panoramic Localizer Based on Coarse-to-Fine Descriptors for Navigation Assistance.** Sensors, 20(15), p. 4177, 2020. <a href="https://www.mdpi.com/1424-8220/20/15/4177/pdf">[PDF]</a>
 5. R. Cheng, W. Hu, H. Chen, Y. Fang, K. Wang, Z. Xu, J. Bai. **Hierarchical Visual Localization for Visually Impaired People Using Multimodal Images.** Expert Systems with Applications, p. 113743, 2020.
-6. R. Cheng, K. Wang, J. Bai, Z. Xu. **Unifying Visual Localization and Scene Recognition for People with Visual Impairment.** IEEE Access, 8, pp. 64284-64296, 2020.
+6. R. Cheng, K. Wang, J. Bai, Z. Xu. **Unifying Visual Localization and Scene Recognition for People with Visual Impairment.** IEEE Access, 8, pp. 64284-64296, 2020. <a href="https://ieeexplore.ieee.org/document/9051719">[IEEExplore]</a>
 7. K. Yang, X. Hu, K. Wang, R. Stiefelhagen. **In Defense of Multi-Source Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation in Heterogeneous Unseen Domains.** In IEEE Intelligent Vehicles Symposium (IV2020), Virtual, October 2020.
-8. K. Yang, X. Hu, H. Chen, K. Xiang, K. Wang, R. Stiefelhagen. **DS-PASS: Detail-Sensitive Panoramic Annular Semantic Segmentation through SwaftNet for Surrounding Sensing.** In IEEE Intelligent Vehicles Symposium (IV2020), Virtual, October 2020.
-9. Y. Fang, K. Wang, R. Cheng, K. Yang. **CFVL: A Coarse-to-Fine Vehicle Localizer with Omnidirectional Perception across Severe Appearance Variations.** In IEEE Intelligent Vehicles Symposium (IV2020), Virtual, October 2020.
+8. K. Yang, X. Hu, H. Chen, K. Xiang, K. Wang, R. Stiefelhagen. **DS-PASS: Detail-Sensitive Panoramic Annular Semantic Segmentation through SwaftNet for Surrounding Sensing.** In IEEE Intelligent Vehicles Symposium (IV2020), Virtual, October 2020. <a href="https://arxiv.org/pdf/1909.07721.pdf">[PDF]</a>
+9. Y. Fang, K. Wang, R. Cheng, K. Yang. **CFVL: A Coarse-to-Fine Vehicle Localizer with Omnidirectional Perception across Severe Appearance Variations.** In IEEE Intelligent Vehicles Symposium (IV2020), Virtual, October 2020. 
 10. Y. Ye, K. Yang, K. Xiang, J. Wang, K. Wang. **Universal Semantic Segmentation for Fisheye Urban Driving Images.** In IEEE International Conference on Systems, Man, and Cybernetics (SMC2020), Virtual, October 2020.
 11. K. Zhou, K. Wang, K. Yang. **PADENet: An Efficient and Robust Panoramic Monocular Depth Estimation Network for Outdoor Scenes.** In IEEE Intelligent Transportation Systems Conference (ITSC2020), Virtual, September 2020.
 12. K. Zhou, K. Wang, K. Yang. **A robust monocular depth estimation framework based on light-weight ERF-PSPNet for day-night driving scenes.** In International Conference on Graphics, Images and Interactive Techniques (CGIIT2020), Virtual, February 2020.
 
 ## 2019年
 
-1. K. Yang, X. Hu, L.M. Bergasa, E. Romera, K. Wang. **PASS: Panoramic Annular Semantic Segmentation.** IEEE Transactions on Intelligent Transportation Systems, 2019.
+1. K. Yang, X. Hu, L.M. Bergasa, E. Romera, K. Wang. **PASS: Panoramic Annular Semantic Segmentation.** IEEE Transactions on Intelligent Transportation Systems, 2019. <a href="https://ieeexplore.ieee.org/document/8835049">[IEEExplore]</a>
 2. K. Yang, L.M. Bergasa, E. Romera, K. Wang. **Robustifying Semantic Cognition of Traversability across Wearable RGB-Depth Cameras.** Applied Optics, 58(12), pp. 3141-3155, 2019. <b style="color:red;">Editors' Pick</b>
 3. H. Chen, K. Wang, W. Hu, K. Yang, R. Cheng, X. Huang, J. Bai. **PALVO: Visual odometry based on panoramic annular lens.** Optics Express, 27(17), pp. 24481-24497, 2019.
 4. H. Li, K. Wang, K. Yang, R. Cheng, C. Wang, L. Fei. **Unconstrained Self-Calibration of Stereo Camera on Visually Impaired Assistance Device.** Applied Optics, 58(23), pp. 6377-6387, 2019.
@@ -80,16 +80,16 @@ author_profile: true
 17. C. Xu, K. Wang, K. Yang, R. Cheng, J. Bai. **Semantic scene understanding on mobile device with illumination invariance for the visually impaired.** In SPIE Security + Defence, Strasbourg, France, September 2019.
 18. J. Shen, K. Wang, K. Yang, K. Xiang, L. Fei, X. Hu, H. Li, H. Chen. **A Depth Estimation Framework Based on Unsupervised Learning and Cross-Modal Translation.** In SPIE Security + Defence, Strasbourg, France, September 2019.
 19. J. Wang, J. Bai, X. Huang, X. Zhou, L. Zhao, K. Yan, J. Hou, K. Yang. **Transparent object sensing with enhanced prior from deep convolutional neural network.** In SPIE Security + Defence, Strasbourg, France, September 2019.
-20. K. Yang, X. Hu, L.M. Bergasa, X. Huang, D. Sun, K. Wang. **Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.** In IEEE Intelligent Vehicles Symposium (IV2019), Paris, France, June 2019.
+20. K. Yang, X. Hu, L.M. Bergasa, X. Huang, D. Sun, K. Wang. **Can we PASS beyond the Field of View? Panoramic Annular Semantic Segmentation for Real-World Surrounding Perception.** In IEEE Intelligent Vehicles Symposium (IV2019), Paris, France, June 2019. <a href="https://ieeexplore.ieee.org/document/8814042/">[IEEExplore]</a>
 21. E. Romera, L.M. Bergasa, K. Yang, J.M. Álvarez, R. Barea. **Bridging the Day and Night Domain Gap for Semantic Segmentation.** In IEEE Intelligent Vehicles Symposium (IV2019), Paris, France, June 2019.
 22. K. Xiang, K. Wang, L. Fei, K. Yang. **Store sign text recognition for wearable navigation assistance system.** In International Conference on Graphics, Images and Interactive Techniques (CGIIT2019), Guangzhou, China, February 2019.
 23. Y. Ye, K. Wang, W. Hu, H. Li, K. Yang, L. Sun, Z. Chen. **A wearable vision-to-audio sensory substitution device for blind assistance and the correlated neural substrates.** In International Conference on Graphics, Images and Interactive Techniques (CGIIT2019), Guangzhou, China, February 2019
 
 ## 2018年
 
-1. K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. Chen, E. López. **Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation.** Sensors, 18(5), p. 1506, 2018.
+1. K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. Chen, E. López. **Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation.** Sensors, 18(5), p. 1506, 2018. <a href="http://www.mdpi.com/1424-8220/18/5/1506/pdf ">[PDF]</a>
 2. K. Yang, K. Wang, H. Chen, J. Bai. **Reducing the minimum range of a RGB-depth sensor to aid navigation in visually impaired individuals.** Applied Optics, 57(11), pp. 2809-2819, 2018. <b style="color:red;">Editors' Pick</b>
-3. S. Lin, R. Cheng, K. Wang, K. Yang. **Visual localizer: outdoor localization based on convnet descriptor and global optimization for visually impaired pedestrians.** Sensors, 18(8), p. 2476, 2018.
+3. S. Lin, R. Cheng, K. Wang, K. Yang. **Visual localizer: outdoor localization based on convnet descriptor and global optimization for visually impaired pedestrians.** Sensors, 18(8), p. 2476, 2018. <a href="http://www.mdpi.com/1424-8220/18/8/2476/pdf">[PDF]</a>
 4. R. Cheng, K. Wang, K. Yang, N. Long, J. Bai. **Real-time pedestrian crossing lights detection algorithm for the visually impaired.** Multimedia Tools and Applications, 77(16), pp. 20651-20671, 2018.
 5. K. Yang, R. Cheng, L.M. Bergasa, E. Romera, K. Wang, N. Long. **Intersection perception through real-time semantic segmentation to assist navigation of visually impaired pedestrians.** In IEEE International Conference on Robotics and Biomimetics (ROBIO2018), Kuala Lumpur, Malaysia, December 2018. 
 6. K. Yang, L.M. Bergasa, E. Romera, J. Wang, K. Wang, E. López. **Perception framework of water hazards beyond traversability for real-world navigation assistance systems.** In IEEE International Conference on Robotics and Biomimetics (ROBIO2018), Kuala Lumpur, Malaysia, December 2018.
@@ -118,13 +118,13 @@ author_profile: true
 ## 2017年
 
 1. K. Yang, K. Wang, X. Zhao, R. Cheng, J. Bai, Y. Yang, D. Liu. **IR stereo RealSense: Decreasing minimum range of navigational assistance for visually impaired individuals.** Journal of Ambient Intelligence and Smart Environments, 9(6), pp. 743-755, 2017. 
-2. K. Yang, K. Wang, R. Cheng, W. Hu, X. Huang, J. Bai. **Detecting Traversable Area and Water Hazards for the Visually Impaired with a pRGB-D Sensor.** Sensors, 17(8), p. 1890, 2017.
+2. K. Yang, K. Wang, R. Cheng, W. Hu, X. Huang, J. Bai. **Detecting Traversable Area and Water Hazards for the Visually Impaired with a pRGB-D Sensor.** Sensors, 17(8), p. 1890, 2017. <a href="https://www.mdpi.com/1424-8220/17/8/1890/pdf">[PDF]</a>
 3. R. Cheng, K. Wang, K. Yang, N. Long, W. Hu, H. Chen, J. Bai, D. Liu. **Crosswalk navigation for people with visual impairments on a wearable device.** Journal of Electronic Imaging, 26(5), p. 053025, 2017. 
 4. X. Huang, J. Bai, K. Wang, Q. Liu, Y. Luo, K. Yang, X. Zhang. **Target enhanced 3d reconstruction based on polarization-coded structured light.** Optics Express, 25(2), pp. 1173-1184, 2017.
 
 ## 2016年
 
-1. K. Yang, K. Wang, W. Hu, J. Bai. **Expanding the Detection of Traversable Area with RealSense for the Visually Impaired.** Sensors, 16(11), p. 1954, 2016.
+1. K. Yang, K. Wang, W. Hu, J. Bai. **Expanding the Detection of Traversable Area with RealSense for the Visually Impaired.** Sensors, 16(11), p. 1954, 2016. <a href="https://www.mdpi.com/1424-8220/16/11/1954/pdf">[PDF]</a>
 2. X. Zhao, K. Wang, K. Yang, W. Hu. **Unconstrained face detection and recognition based on RGB-D camera for the visually impaired.** In International Conference on Graphics and Image Processing (ICGIP2016), Tokyo, Japan, October 2016.
 
 ## 2015年

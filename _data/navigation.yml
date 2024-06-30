@@ -1,19 +1,29 @@
 # main links links
 main:
-  - title: "发表工作"
-    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "成员"
+    url: /team/
 
   - title: "科研"
     url: /year-archive/  
 
-  - title: "成员"
-    url: /team/
+  - title: "出版"
+    url: /publications/
+
+  - title: "专利"
+    url: /patent/
+
+  - title: "开源"
+    url: /open-source/
+
+  - title: "毕业论文"
+    url: /thesis/
         
   - title: "课题组生活"
     url: /beauty-life/
+
+  # - title: "Talks"
+  #   url: /talks/    
 
     
   # - title: "CV"
