@@ -22,7 +22,7 @@ author_profile: true
 |  姓名  | 照片                                                         | 年级   | 邮箱                   | 研究方向                         | 其他信息 |
 | :----: | ------------------------------------------------------------ | ------ | ---------------------- | -------------------------------- | -------- |
 | 叶耀祖 | <img src="/images/students/yeyaozu.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级 | yaozuye@zju.edu.cn     | 图像语义分割及SLAM               |          |
-|  孙磊  | <img src="/images/students/sunlei.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级 | 1843559634@qq.com      | 语义分割鲁棒性研究               |          |
+|  <a href="https://ahupujr.github.io/" target="_blank">孙磊</a>  | <img src="/images/students/sunlei.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级 | 1843559634@qq.com      | 语义分割鲁棒性研究               |          |
 |  王泽  | <img src="/images/students/wangze.jpg" alt="Portfolio" width = 160px height = 160px> | 2020级 | 1213214668@qq.com      | VIO; SLAM                        |          |
 | 张雨凡 | <img src="/images/students/zhangyufan.jpg" alt="Portfolio" width = 160px height = 160px> | 2020级 | zhangyufan@zju.edu.cn  | 全景视觉SLAM                     |          |
 | 高少华 | <img src="/images/students/gaoshaohua.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级 | gaoshaohua@zju.edu.cn  | 全景环境感知                     |          |
@@ -57,8 +57,8 @@ author_profile: true
 | 林书妃 | <img src="/images/students/linshufei.jpg" alt="Portfolio" width = 160px height = 160px> | 2016级硕士 |                         | 毕业论文题目：基于卷积神经网络的视觉定位技术及其在盲人辅助中的应用 | 百度                 |
 | 龙宁波 | <img src="/images/students/longningbo.jpg" alt="Portfolio" width = 160px height = 160px> | 2015级博士 |                         | 毕业论文题目：用于盲人辅助的低功耗毫米波雷达及多传感器融合技术 | 之江实验室           |
 | 白炳岳 | <img src="/images/students/baibingyue.jpg" alt="Portfolio" width = 160px height = 160px> | 2016级     | 1016594034@qq.com       | 研究方向：行人检测跟踪                                       |                      |
-| 杨恺伦 | <img src="/images/students/yangkailun.jpg" alt="Portfolio" width = 160px height = 160px> | 2016级博士 |                         | 毕业论文题目：盲人辅助中的偏振RGB-D传感和全景环带实时语义分割 | 湖南大学             |
-| 程瑞琦 | <img src="/images/students/chengruiqi.jpg" alt="Portfolio" width = 160px height = 160px> | 2015级博士 |                         | 毕业论文题目：面向视障辅助的视觉定位和交通路口场景感知研究   | 华为                 |
+| <a href="http://www.yangkailun.com/" target="_blank">杨恺伦</a> | <img src="/images/students/yangkailun.jpg" alt="Portfolio" width = 160px height = 160px> | 2016级博士 |                         | 毕业论文题目：盲人辅助中的偏振RGB-D传感和全景环带实时语义分割 | 湖南大学             |
+| <a href="https://sites.google.com/view/ruiqi-cheng/" target="_blank">程瑞琦</a> | <img src="/images/students/chengruiqi.jpg" alt="Portfolio" width = 160px height = 160px> | 2015级博士 |                         | 毕业论文题目：面向视障辅助的视觉定位和交通路口场景感知研究   | 华为                 |
 | 胡伟健 | <img src="/images/students/huweijian.jpg" alt="Portfolio" width = 160px height = 160px> | 2016级博士 |                         | 毕业论文题目：面向视障出行辅助的避障和定位技术研究           | 华为                 |
 |  陈浩  | <img src="/images/students/chenhao.jpg" alt="Portfolio" width = 160px height = 160px> | 2016级博士 |                         | 毕业论文题目：基于全景环带成像的视觉同步定位与地图构建       | 高德                 |
 | 徐承优 | <img src="/images/students/xuchengyou.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | xucyshiny@163.com       | 研究方向：盲人视觉辅助中的移动端语义场景理解                 |                      |
@@ -69,7 +69,7 @@ author_profile: true
 | 胡鑫欣 | <img src="/images/students/huxinxin.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | hxx_zju@zju.edu.cn      | 研究方向：RGBD与全景图像语义分割                             |                      |
 | 李华兵 | <img src="/images/students/lihuabing.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | 1356687315@qq.com       | 研究方向：嵌入式多基线RGB-IR双目立体视觉                     |                      |
 | 李艳宾 | <img src="/images/students/liyanbin.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | linghugoogle@163.com    | 研究方向：基于全景环带相机的混合现实                         |                      |
-| 孙东明 | <img src="/images/students/sundongming.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | dongmingsun@zju.edu.cn  | 研究方向：多模态传感器设计与融合                             |                      |
+| <a href="https://www.dongming.io" target="_blank">孙东明<br> </a> | <img src="/images/students/sundongming.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | dongmingsun@zju.edu.cn  | 研究方向：多模态传感器设计与融合                             |                      |
 |  王娟  | <img src="/images/students/wangjuan.jpg" alt="Portfolio" width = 160px height = 160px> | 2017级     | zjuoptwj@zju.edu.cn     | 研究方向：三维世界的棒状像素表示                             |                      |
 | 朱临轩 | <img src="/images/students/zhulinxuan.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级     | zhulinxuan123@gmail.com | 研究方向：双目深度估计算法的FPGA加速                         |                      |
 | 项凯特 | <img src="/images/students/xiangkaite.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级     | katexiang@zju.edu.cn    | 研究方向：语义视觉定位和基于图卷积网络的语义分割             |                      |
