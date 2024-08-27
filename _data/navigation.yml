@@ -16,8 +16,8 @@ main:
   - title: "开源"
     url: /open-source/
 
-  - title: "毕业论文"
-    url: /thesis/
+  # - title: "毕业论文"
+  #   url: /thesis/
         
   - title: "课题组生活"
     url: /beautiful-life/
