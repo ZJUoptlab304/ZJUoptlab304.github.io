@@ -88,7 +88,7 @@ author_profile: true
 ## 2018年
 
 1. K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. Chen, E. López. **Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation.** Sensors, 18(5), p. 1506, 2018. <a href="http://www.mdpi.com/1424-8220/18/5/1506/pdf ">[PDF]</a>
-2. K. Yang, K. Wang, H. Chen, J. Bai. **Reducing the minimum range of a RGB-depth sensor to aid navigation in visually impaired individuals.** Applied Optics, 57(11), pp. 2809-2819, 2018. <b style="color:red;">Editors' Pick</b>
+2. K. Yang, K. Wang, H. Chen, J. Bai. **Reducing the minimum range of a RGB-depth sensor to aid navigation in visually impaired individuals.** Applied Optics, 57(11), pp. 2809-2819, 2018. <b style="color:red;">Editors' Pick</b> <a href="../files/ao2018_kailun.pdf">[PDF]</a>
 3. S. Lin, R. Cheng, K. Wang, K. Yang. **Visual localizer: outdoor localization based on convnet descriptor and global optimization for visually impaired pedestrians.** Sensors, 18(8), p. 2476, 2018. <a href="http://www.mdpi.com/1424-8220/18/8/2476/pdf">[PDF]</a>
 4. R. Cheng, K. Wang, K. Yang, N. Long, J. Bai. **Real-time pedestrian crossing lights detection algorithm for the visually impaired.** Multimedia Tools and Applications, 77(16), pp. 20651-20671, 2018.
 5. K. Yang, R. Cheng, L.M. Bergasa, E. Romera, K. Wang, N. Long. **Intersection perception through real-time semantic segmentation to assist navigation of visually impaired pedestrians.** In IEEE International Conference on Robotics and Biomimetics (ROBIO2018), Kuala Lumpur, Malaysia, December 2018. 
