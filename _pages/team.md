@@ -22,7 +22,6 @@ author_profile: true
 |  姓名  | 照片                                                         | 年级   | 邮箱                   | 研究方向                         | 其他信息 |
 | :----: | ------------------------------------------------------------ | ------ | ---------------------- | -------------------------------- | -------- |
 | 叶耀祖 | <img src="/images/students/yeyaozu.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级 | yaozuye@zju.edu.cn     | 图像语义分割及SLAM               |          |
-|  <a href="https://ahupujr.github.io/" target="_blank">孙磊</a>  | <img src="/images/students/sunlei.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级 | 1843559634@qq.com      | 语义分割鲁棒性研究               |          |
 |  王泽  | <img src="/images/students/wangze.jpg" alt="Portfolio" width = 160px height = 160px> | 2020级 | 1213214668@qq.com      | VIO; SLAM                        |          |
 | 张雨凡 | <img src="/images/students/zhangyufan.jpg" alt="Portfolio" width = 160px height = 160px> | 2020级 | zhangyufan@zju.edu.cn  | 全景视觉SLAM                     |          |
 | 高少华 | <img src="/images/students/gaoshaohua.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级 | gaoshaohua@zju.edu.cn  | 全景环境感知                     |          |
@@ -37,7 +36,6 @@ author_profile: true
 
 |  姓名  | 照片                                                         | 年级   | 邮箱                     | 研究方向                         | 其他信息 |
 | :----: | ------------------------------------------------------------ | ------ | ------------------------ | -------------------------------- | -------- |
-| 刘海斌 | <img src="/images/students/liuhaibin.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级 | haibinliu@zju.edu.cn     |                                  |          |
 | 古頔阳 | <img src="/images/students/guliyang2.jpg" alt="Portfolio" width = 160px height = 160px> | 2022级 | 22230114@zju.edu.cn      | 事件相机/生成式人工智能          |          |
 | 卢星宇 | <img src="/images/students/luxingyu.jpg" alt="Portfolio" width = 160px height = 160px> | 2022级 | 3180102177@zju.edu.cn    | 工业检测                         |          |
 |  高尧  | <img src="/images/students/gaoyao.jpg" alt="Portfolio" width = 160px height = 160px> | 2023级 | 22330071@zju.edu.cn      | 端到端光学系统智能化设计         |          |
@@ -46,6 +44,10 @@ author_profile: true
 | 李文勇 | <img src="/images/students/liwenyong.jpg" alt="Portfolio" width = 160px height = 160px> | 2023级 | liwenyong2023@zju.edu.cn | 机器视觉，光学主动对准           |          |
 | 钱晓龙 | <img src="/images/students/qianxiaolong.jpg" alt="Portfolio" width = 160px height = 160px> | 2023级 | xiaolongqian@zju.edu.cn  | 计算光学成像                     |          |
 | 郭尚伟 | <img src="/images/students/guoshangwei.jpg" alt="Portfolio" width = 160px height = 160px> | 2023级 | shangwei_guo@163.com     | 大场景稠密重建                   |          |
+| 杨子鑫 | <img src="/images/students/yangzixin.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | 22430028@zju.edu.cn     |                    |          |
+| 余宗玺 | <img src="/images/students/yuzongxi.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | yuzongxi@zju.edu.cn     | 计算成像                   |          |
+| 瞿家俊 | <img src="/images/students/zhaijiajun.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | jiajunzhai@zju.edu.cn     |                    |          |
+| 谢书航 | <img src="/images/students/xieshuhang.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | yuzongxi@zju.edu.cn     | 计算光学                   |          |
 
 ## 毕业生
 
@@ -77,6 +79,7 @@ author_profile: true
 | 方一程 | <img src="/images/students/fangyicheng.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级     | 489472536@qq.com        | 研究方向：多层次视觉定位                                     |                      |
 | 沈佳峰 | <img src="/images/students/shenjiafeng.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级     | 1979785146@qq.com       | 研究方向：跨模态深度估计                                     |                      |
 | 计紫豪 | <img src="/images/students/jizihao.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级     | 839354647@qq.com        | 研究方向：跨气象条件语义分割鲁棒性研究                       |                      |
+|  <a href="https://ahupujr.github.io/" target="_blank">孙磊</a>  | <img src="/images/students/sunlei.jpg" alt="Portfolio" width = 160px height = 160px> | 2018级博士 | 1843559634@qq.com      | 语义分割鲁棒性研究               |          |
 | 刘牧青 | <img src="/images/students/liumuqing.jpg" alt="Portfolio" width = 160px height = 160px> | 2019级     | 2328867282@qq.com       | 研究方向：语义场景理解技术                                   |                      |
 | 胡子健 | <img src="/images/students/huzijian.jpg" alt="Portfolio" width = 160px height = 160px> | 2019级     | hzj111@zju.edu.cn       | 研究方向：毫米波雷达与RGB-D的检测融合                        |                      |
 | 周科洋 | <img src="/images/students/zhoukeyang.jpg" alt="Portfolio" width = 160px height = 160px> | 2019级     | zhoukeyang@zju.edu.cn   | 研究方向：单目深度估计                                       |                      |
@@ -89,6 +92,7 @@ author_profile: true
 | 谢丰凡 | <img src="/images/students/xiefengfan.jpg" alt="Portfolio" width = 160px height = 160px> | 2020级     | 1341159362@qq.com       |                                                              |                      |
 | 许新财 | <img src="/images/students/xuxincai.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级     | xxc1999525@163.com      |                                                              |                      |
 |  石泽  | <img src="/images/students/shize.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级     | shize_std@163.com       |                                                              |                      |
+| 刘海斌 | <img src="/images/students/liuhaibin.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级硕士 | haibinliu@zju.edu.cn     |                                  |          |
 
 {% include base_path %}
 
