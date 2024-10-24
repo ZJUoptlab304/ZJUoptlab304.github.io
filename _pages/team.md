@@ -46,7 +46,7 @@ author_profile: true
 | 郭尚伟 | <img src="/images/students/guoshangwei.jpg" alt="Portfolio" width = 160px height = 160px> | 2023级 | shangwei_guo@163.com     | 大场景稠密重建                   |          |
 | 杨子鑫 | <img src="/images/students/yangzixin.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | 22430028@zju.edu.cn     |                    |          |
 | 余宗玺 | <img src="/images/students/yuzongxi.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | yuzongxi@zju.edu.cn     | 计算成像                   |          |
-| 瞿家俊 | <img src="/images/students/zhaijiajun.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | jiajunzhai@zju.edu.cn     |                    |          |
+| 翟家骏 | <img src="/images/students/zhaijiajun.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | jiajunzhai@zju.edu.cn     |                    |          |
 | 谢书航 | <img src="/images/students/xieshuhang.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | xieshuhang2002@163.com     | 计算光学                   |          |
 | 周佳仕 | <img src="/images/students/zhoujiashi.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | 22460088@zju.edu.cn     |                    |          |
 | 郑振耀 | <img src="/images/students/zhengzhenyao.jpg" alt="Portfolio" width = 160px height = 160px> | 2024级 | zhenyaozheng@zju.edu.cn     |                    |          |
