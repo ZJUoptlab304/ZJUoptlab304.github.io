@@ -9,7 +9,6 @@ author_profile: true
   <div class="wordwrap">所有出版物同样可以在<a href="{{site.author.googlescholar}}"> Google Scholar </a>主页检索得到。</div>
 {% endif %}
 
-
 ## 2024年
 - Jiang Q, Yi Z, Gao S, Gao Y, Qian X, Shi H, Sun L, Niu J, Wang K, Yang K, Bai J. Representing domain-mixing optical degradation for real-world Computational Aberration Correction via vector quantization. Optics & Laser Technology. 2025 May 1;183:112080. <a href="https://www.sciencedirect.com/science/article/pii/S003039922401538X">[ScienceDirect]</a>
 - Bao Y, Sun L, Ma Y, Wang K. Temporal-mapping photography for event cameras. InEuropean Conference on Computer Vision 2025 (pp. 55-72). Springer, Cham. <a href="https://link.springer.com/chapter/10.1007/978-3-031-73001-6_4">[Springer]</a> <a href="https://arxiv.org/pdf/2403.06443">[ArXiv]</a>
