@@ -29,7 +29,7 @@ author_profile: true
 | 印晓婷 | <img src="/images/students/yinxiaoting.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级 | yinxiaoting@zju.edu.cn | 三维重建；人体姿态估计；事件相机 |          |
 |  蒋奇  | <img src="/images/students/jiangqi2.jpg" alt="Portfolio" width = 160px height = 160px> | 2021级 | qijiang@zju.edu.cn     | 计算光学，智能成像及其应用       |          |
 | 黄昊宇 | <img src="/images/students/huanghaoyu2.jpg" alt="Portfolio" width = 160px height = 160px> | 2022级 | huanghaoyu@zju.edu.cn  | 偏振检测；视觉SLAM               |          |
-| 易中华 | <img src="/images/students/yizhonghua2.gif" alt="Portfolio" width = 160px height = 160px> | 2022级 | yizhonghua@zju.edu.cn  | 视觉感知                         |          |
+| <a href="https://yizhonghua.me/bio" target="_blank">易中华</a> | <img src="/images/students/yizhonghua2.gif" alt="Portfolio" width = 160px height = 160px> | 2022级 | yizhonghua@zju.edu.cn  | 视觉感知                         |          |
 | 鲍宇涵 | <img src="/images/students/baoyuhan2.jpg" alt="Portfolio" width = 160px height = 160px> | 2022级 | yhbao@zju.edu.cn       | 立体视觉感知                     |          |
 
 ### 硕士
