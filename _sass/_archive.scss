@@ -245,3 +245,41 @@
     }
   }
 }
+
+/*
+   Collapsible sections for publications
+   ========================================================================== */
+
+details {
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+}
+
+details:last-of-type {
+  border-bottom: none;
+}
+
+summary {
+  cursor: pointer;
+  outline: none;
+  display: list-item; /* Use 'list-item' to get a marker */
+  list-style: "＋ "; /* Default marker for closed state */
+  font-weight: bold;
+}
+
+details[open] > summary {
+  list-style: "－ "; /* Marker for open state */
+}
+
+summary h2 {
+  display: inline;
+  font-size: $type-size-4; /* Match archive subtitle */
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+summary:hover {
+  color: $primary-color;
+}
