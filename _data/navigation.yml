@@ -4,7 +4,7 @@ main:
   - title: "成员"
     url: /team/
 
-  - title: "科研"
+  - title: "动态"
     url: /year-archive/  
 
   - title: "出版"
@@ -20,7 +20,7 @@ main:
   #   url: /thesis/
         
   - title: "课题组生活"
-    url: /beautiful-life/
+    url: /team-life/
 
   # - title: "Talks"
   #   url: /talks/    
