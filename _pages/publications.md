@@ -9,7 +9,19 @@ author_profile: true
   <div class="wordwrap" style="margin-bottom: 2em;">所有出版物同样可以在<a href="{{site.author.googlescholar}}"> Google Scholar </a>主页检索得到。</div>
 {% endif %}
 
-<details open>
+<details open>  
+<summary><h2>2025年</h2></summary>
+<ul>
+  <li>Bao Y, Gao S, Li W, Wang K. One-Step Event-Driven High-Speed Autofocus. InProceedings of the Computer Vision and Pattern Recognition Conference 2025 (pp. 6222-6230). <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Bao_One-Step_Event-Driven_High-Speed_Autofocus_CVPR_2025_paper.pdf">[CVF]</a></li>
+  <li>Gao Y, Jiang Q, Gao S, Sun L, Yang K, Wang K. Exploring Quasi-Global Solutions to Compound Lens Based Computational Imaging Systems. IEEE Transactions on Computational Imaging. 2025 Feb 25. <a href="https://ieeexplore.ieee.org/abstract/document/10902466/">[IEEEXplore]</a> <a href="https://www.researchgate.net/profile/Kailun-Yang/publication/389338725_Exploring_Quasi-Global_Solutions_to_Compound_Lens_Based_Computational_Imaging_Systems/links/67c2e3f4207c0c20fa9c0399/Exploring-Quasi-Global-Solutions-to-Compound-Lens-Based-Computational-Imaging-Systems.pdf">[ResearchGate]</a></li> 
+  <li>Yi Z, Sh H, Jiang Q, Yang K, Wang Z, Gu D, Zhang Y, Wang K. EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data. In2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025 Feb 26 (pp. 1979-1988). IEEE. <a href="https://ieeexplore.ieee.org/abstract/document/10944000/">[IEEEXplore]</a></li>
+  <li>Qian X, Jiang Q, Gao Y, Gao S, Yi Z, Sun L, Wei K, Li H, Yang K, Wang K, Bai J. Towards Single-Lens Controllable Depth-of-Field Imaging via Depth-Aware Point Spread Functions. IEEE Transactions on Computational Imaging. 2025 Feb 28. <a href="https://ieeexplore.ieee.org/abstract/document/10908056/">[IEEEXplore]</a></li>
+  <li>Yin X, Shi H, Bao Y, Bing Z, Liao Y, Yang K, Wang K. E-3DGS: 3D Gaussian splatting with<? TeX\break?> exposure and motion events. Applied Optics. 2025 May 2;64(14):3897-908. <a href="https://opg.optica.org/viewmedia.cfm?uri=ao-64-14-3897&seq=0">[Optica]</a></li>
+  <li>Ye Y, Shi H, Yang K, Wang Z, Yin X, Sun L, Wang Y, Wang K. Towards anytime optical flow estimation with event cameras. Sensors. 2025 May 17;25(10):3158. <a href="https://www.mdpi.com/1424-8220/25/10/3158">[MDPI]</a></li>
+  <li>Shi H, Wang S, Zhang J, Yin X, Wang G, Zhu J, Yang K, Wang K. Offboard occupancy refinement with hybrid propagation for autonomous driving. IEEE Transactions on Intelligent Transportation Systems. 2025 Jun 2. <a href="https://ieeexplore.ieee.org/abstract/document/11021533/">[IEEEXplore]</a> <a href="https://arxiv.org/pdf/2403.08504?">[ArXiv]</a></li>
+</ul>
+</details>
+<details>
 <summary><h2>2024年</h2></summary>
 <ul>
   <li>Jiang Q, Yi Z, Gao S, Gao Y, Qian X, Shi H, Sun L, Niu J, Wang K, Yang K, Bai J. Representing domain-mixing optical degradation for real-world Computational Aberration Correction via vector quantization. Optics & Laser Technology. 2025 May 1;183:112080. <a href="https://www.sciencedirect.com/science/article/pii/S003039922401538X">[ScienceDirect]</a></li>
