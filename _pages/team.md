@@ -173,6 +173,22 @@ author_profile: true
 
 <h2 class="section-title">🎓 在读生</h2>
 
+<h3 class="subsection-title">🔬 博士后</h3>
+
+<div class="member-grid">
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/huweijian_2025.jpg" alt="胡伟健">
+    </div>
+    <div class="member-info">
+      <h3>胡伟健</h3>
+      <span class="grade">2025级 博士后</span>
+      <!-- <div class="email">📧 yaozuye@zju.edu.cn</div> -->
+      <!-- <div class="research">🔍 研究方向：图像语义分割及SLAM</div> -->
+    </div>
+  </div>
+</div>
+
 <h3 class="subsection-title">🔬 博士研究生</h3>
 
 <div class="member-grid">
@@ -190,18 +206,6 @@ author_profile: true
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="/images/students/wangze.jpg" alt="王泽">
-    </div>
-    <div class="member-info">
-      <h3>王泽</h3>
-      <span class="grade">2020级 博士</span>
-      <div class="email">📧 1213214668@qq.com</div>
-      <div class="research">🔍 研究方向：VIO; SLAM</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
       <img src="/images/students/zhangyufan.jpg" alt="张雨凡">
     </div>
     <div class="member-info">
@@ -209,18 +213,6 @@ author_profile: true
       <span class="grade">2020级 博士</span>
       <div class="email">📧 zhangyufan@zju.edu.cn</div>
       <div class="research">🔍 研究方向：全景视觉SLAM</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
-      <img src="/images/students/gaoshaohua.jpg" alt="高少华">
-    </div>
-    <div class="member-info">
-      <h3>高少华</h3>
-      <span class="grade">2021级 博士</span>
-      <div class="email">📧 gaoshaohua@zju.edu.cn</div>
-      <div class="research">🔍 研究方向：全景环境感知</div>
     </div>
   </div>
 
@@ -295,6 +287,54 @@ author_profile: true
       <div class="research">🔍 研究方向：立体视觉感知</div>
     </div>
   </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/gaoyao.jpg" alt="高尧">
+    </div>
+    <div class="member-info">
+      <h3>高尧</h3>
+      <span class="grade">2023级 博士</span>
+      <div class="email">📧 22330071@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：端到端光学系统智能化设计</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/wangluming.jpg" alt="王路明">
+    </div>
+    <div class="member-info">
+      <h3>王路明</h3>
+      <span class="grade">2023级 博士</span>
+      <div class="email">📧 22330122@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：基于事件相机的人体关键点位置估计</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/qianxiaolong.jpg" alt="钱晓龙">
+    </div>
+    <div class="member-info">
+      <h3>钱晓龙</h3>
+      <span class="grade">2023级 博士</span>
+      <div class="email">📧 xiaolongqian@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：计算光学成像</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/daile.jpg" alt="戴乐">
+    </div>
+    <div class="member-info">
+      <h3>戴乐</h3>
+      <span class="grade">2025级 博士</span>
+      <div class="email">📧 daile@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：待定</div>
+    </div>
+  </div>
 </div>
 
 <h3 class="subsection-title">🎓 硕士研究生</h3>
@@ -309,42 +349,6 @@ author_profile: true
       <span class="grade">2022级 硕士</span>
       <div class="email">📧 22230114@zju.edu.cn</div>
       <div class="research">🔍 研究方向：事件相机/生成式人工智能</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
-      <img src="/images/students/luxingyu.jpg" alt="卢星宇">
-    </div>
-    <div class="member-info">
-      <h3>卢星宇</h3>
-      <span class="grade">2022级 硕士</span>
-      <div class="email">📧 3180102177@zju.edu.cn</div>
-      <div class="research">🔍 研究方向：工业检测</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
-      <img src="/images/students/gaoyao.jpg" alt="高尧">
-    </div>
-    <div class="member-info">
-      <h3>高尧</h3>
-      <span class="grade">2023级 硕士</span>
-      <div class="email">📧 22330071@zju.edu.cn</div>
-      <div class="research">🔍 研究方向：端到端光学系统智能化设计</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
-      <img src="/images/students/wangluming.jpg" alt="王路明">
-    </div>
-    <div class="member-info">
-      <h3>王路明</h3>
-      <span class="grade">2023级 硕士</span>
-      <div class="email">📧 22330122@zju.edu.cn</div>
-      <div class="research">🔍 研究方向：基于事件相机的人体关键点位置估计</div>
     </div>
   </div>
 
@@ -374,25 +378,13 @@ author_profile: true
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="/images/students/qianxiaolong.jpg" alt="钱晓龙">
-    </div>
-    <div class="member-info">
-      <h3>钱晓龙</h3>
-      <span class="grade">2023级 硕士</span>
-      <div class="email">📧 xiaolongqian@zju.edu.cn</div>
-      <div class="research">🔍 研究方向：计算光学成像</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
       <img src="/images/students/guoshangwei.jpg" alt="郭尚伟">
     </div>
     <div class="member-info">
       <h3>郭尚伟</h3>
       <span class="grade">2023级 硕士</span>
       <div class="email">📧 shangwei_guo@163.com</div>
-      <div class="research">🔍 研究方向：大场景稠密重建</div>
+      <div class="research">🔍 研究方向：自动驾驶感知</div>
     </div>
   </div>
 
@@ -467,6 +459,43 @@ author_profile: true
       <div class="research">🔍 研究方向：待定</div>
     </div>
   </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/quewentao.jpg" alt="阙文涛">
+    </div>
+    <div class="member-info">
+      <h3>阙文涛</h3>
+      <span class="grade">2025级 硕士</span>
+      <div class="email">📧 2325196341@qq.com</div>
+      <div class="research">🔍 研究方向：待定</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/wangxian.jpg" alt="王显">
+    </div>
+    <div class="member-info">
+      <h3>王显</h3>
+      <span class="grade">2025级 硕士</span>
+      <div class="email">📧 22530109@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：待定</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="/images/students/shaochenxi.jpg" alt="邵晨昕">
+    </div>
+    <div class="member-info">
+      <h3>邵晨昕</h3>
+      <span class="grade">2025级 硕士</span>
+      <div class="email">📧 chenxin.shao@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：待定</div>
+    </div>
+  </div>
+
 </div>
 
 <h2 class="section-title">🎉 毕业生</h2>
@@ -950,6 +979,42 @@ author_profile: true
       <span class="grade">2021级 硕士</span>
       <div class="email">📧 haibinliu@zju.edu.cn</div>
       <div class="research">🎓 已毕业</div>
+    </div>
+  </div>
+
+  <div class="member-card graduated-member">
+    <div class="member-photo">
+      <img src="/images/students/luxingyu.jpg" alt="卢星宇">
+    </div>
+    <div class="member-info">
+      <h3>卢星宇</h3>
+      <span class="grade">2022级 硕士</span>
+      <div class="email">📧 3180102177@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：工业检测</div>
+    </div>
+  </div>
+
+  <div class="member-card graduated-member">
+    <div class="member-photo">
+      <img src="/images/students/gaoshaohua.jpg" alt="高少华">
+    </div>
+    <div class="member-info">
+      <h3>高少华</h3>
+      <span class="grade">2021级 博士</span>
+      <div class="email">📧 gaoshaohua@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：全景环境感知</div>
+    </div>
+  </div>
+
+  <div class="member-card graduated-member">
+    <div class="member-photo">
+      <img src="/images/students/wangze.jpg" alt="王泽">
+    </div>
+    <div class="member-info">
+      <h3>王泽</h3>
+      <span class="grade">2020级 博士</span>
+      <div class="email">📧 1213214668@qq.com</div>
+      <div class="research">🔍 研究方向：VIO; SLAM</div>
     </div>
   </div>
 
