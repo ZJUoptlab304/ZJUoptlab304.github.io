@@ -314,6 +314,18 @@ author_profile: true
 
   <div class="member-card">
     <div class="member-photo">
+      <img src="/images/students/liwenyong.jpg" alt="李文勇">
+    </div>
+    <div class="member-info">
+      <h3>李文勇</h3>
+      <span class="grade">2023级 博士</span>
+      <div class="email">📧 liwenyong2023@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：机器视觉，光学主动对准</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
       <img src="/images/students/qianxiaolong.jpg" alt="钱晓龙">
     </div>
     <div class="member-info">
@@ -361,18 +373,6 @@ author_profile: true
       <span class="grade">2023级 硕士</span>
       <div class="email">📧 mayuqin100@126.com</div>
       <div class="research">🔍 研究方向：事件相机/特征跟踪</div>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">
-      <img src="/images/students/liwenyong.jpg" alt="李文勇">
-    </div>
-    <div class="member-info">
-      <h3>李文勇</h3>
-      <span class="grade">2023级 硕士</span>
-      <div class="email">📧 liwenyong2023@zju.edu.cn</div>
-      <div class="research">🔍 研究方向：机器视觉，光学主动对准</div>
     </div>
   </div>
 
