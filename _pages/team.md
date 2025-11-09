@@ -338,6 +338,18 @@ author_profile: true
 
   <div class="member-card">
     <div class="member-photo">
+      <img src="/images/students/guoxiangfei.jpg" alt="钱晓龙">
+    </div>
+    <div class="member-info">
+      <h3>郭相飞</h3>
+      <span class="grade">2024级 博士</span>
+      <div class="email">📧 guoxf@zju.edu.cn</div>
+      <div class="research">🔍 研究方向：3DGS、视觉SLAM、三维重建</div>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">
       <img src="/images/students/daile.jpg" alt="戴乐">
     </div>
     <div class="member-info">
