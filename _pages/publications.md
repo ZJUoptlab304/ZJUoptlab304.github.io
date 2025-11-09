@@ -5,11 +5,238 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.publications-header {
+  text-align: center;
+  padding: 30px 0;
+  background: #f8f9fa;
+  color: #333;
+  border: 1px solid #e9ecef;
+  margin-bottom: 30px;
+}
+
+.publications-header h2 {
+  font-size: 1.8em;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.publications-header p {
+  font-size: 1em;
+  margin: 8px 0;
+  color: #666;
+}
+
+details {
+  margin-bottom: 25px;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  background: white;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+details:hover {
+  border-color: #6c757d;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+summary {
+  padding: 20px 25px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-bottom: 2px solid #dee2e6;
+  cursor: pointer;
+  font-weight: 600;
+  color: #333;
+  position: relative;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+summary h2 {
+  margin: 0;
+  font-size: 1.4em;
+  color: #333;
+  display: inline;
+}
+
+summary::before {
+  content: '▶';
+  font-size: 0.8em;
+  margin-right: 12px;
+  transition: transform 0.3s ease;
+  color: #6c757d;
+}
+
+
+details[open] summary {
+  background: linear-gradient(135deg, #e9ecef 0%, #dee2e6 100%);
+  border-bottom: 3px solid #6c757d;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+
+details ul {
+  margin: 0;
+  padding: 25px;
+  list-style-type: none;
+  background: #fafbfc;
+}
+
+details li {
+  margin-bottom: 18px;
+  padding: 16px 18px;
+  background: white;
+  border-left: 4px solid #6c757d;
+  border-radius: 6px;
+  line-height: 1.6;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+details li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-left-color: #495057;
+}
+
+/* 论文标题样式 */
+details li strong:first-child,
+details li b:first-child {
+  color: #333;
+  font-weight: 600;
+}
+
+details li:last-child {
+  margin-bottom: 0;
+}
+
+details li a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 2px 4px;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+details li a:hover {
+  color: #0056b3;
+  background: #e3f2fd;
+  text-decoration: none;
+}
+
+/* 链接组样式 */
+details li a + a {
+  margin-left: 8px;
+}
+
+.wordwrap {
+  background: #f8f9fa;
+  padding: 15px;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  margin-bottom: 2em;
+  text-align: center;
+  color: #495057;
+}
+
+.wordwrap a {
+  color: #6c757d;
+  text-decoration: none;
+}
+
+.wordwrap a:hover {
+  color: #495057;
+  text-decoration: underline;
+}
+
+/* 特殊标记样式 */
+details li b[style*="color:red"] {
+  color: #ffffff !important;
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  font-weight: 600;
+  margin-left: 8px;
+  box-shadow: 0 2px 4px rgba(0,123,255,0.3);
+}
+
+/* 添加展开动画 */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+details[open] ul {
+  animation: slideDown 0.3s ease-out;
+}
+
+/* 论文计数徽章 */
+summary::before {
+  content: '▶';
+  font-size: 0.8em;
+  margin-right: 12px;
+  transition: transform 0.3s ease;
+  color: #6c757d;
+}
+
+
+@media (max-width: 768px) {
+  .publications-header h2 {
+    font-size: 1.5em;
+  }
+
+  summary {
+    padding: 15px 20px;
+  }
+
+  summary h2 {
+    font-size: 1.1em;
+  }
+
+  
+  details ul {
+    padding: 15px;
+  }
+
+  details li {
+    padding: 12px 14px;
+    margin-bottom: 12px;
+    font-size: 0.9em;
+  }
+
+  details li a {
+    display: inline-block;
+    margin: 2px 0;
+  }
+}
+</style>
+
+<div class="publications-header">
+  <h2>学术出版物</h2>
+  <p>展示实验室在计算机视觉、计算成像等领域的学术成果</p>
+</div>
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap" style="margin-bottom: 2em;">所有出版物同样可以在<a href="{{site.author.googlescholar}}"> Google Scholar </a>主页检索得到。</div>
+  <div class="wordwrap">所有出版物同样可以在<a href="{{site.author.googlescholar}}"> Google Scholar </a>主页检索得到。</div>
 {% endif %}
 
-<details open>  
+<details open>
 <summary><h2>2025年</h2></summary>
 <ul>
   <li>Bao Y, Gao S, Li W, Wang K. One-Step Event-Driven High-Speed Autofocus. InProceedings of the Computer Vision and Pattern Recognition Conference 2025 (pp. 6222-6230). <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Bao_One-Step_Event-Driven_High-Speed_Autofocus_CVPR_2025_paper.pdf">[CVF]</a></li>
