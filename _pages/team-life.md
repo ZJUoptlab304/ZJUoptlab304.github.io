@@ -68,6 +68,12 @@ author_profile: true
   grid-template-rows: 1fr 1fr;
 }
 
+/* 3 列 × 2 行 */
+.image-gallery.six-images {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto auto;
+}
+
 .image-gallery.single-image {
   grid-template-columns: 1fr;
 }
@@ -104,7 +110,8 @@ author_profile: true
     margin-bottom: 15px;
   }
   
-  .image-gallery.four-images {
+  .image-gallery.four-images,
+  .image-gallery.six-images {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
   }
@@ -116,6 +123,40 @@ author_profile: true
 </style>
 
 <div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <h3 class="timeline-date">2026年4月25-26日</h3>
+      <p class="timeline-description">
+        <span class="celebration-emoji">🌿</span>汪老师与白老师、应老师及组内同学一起前往美丽的莫干山春游，一起体验了越野车、真人CS、自助烧烤、徒步等活动，增进了大家的感情，也丰富了大家的课余生活。（素材：郭相飞同学）
+      </p>
+      <div class="image-gallery single-image">
+        <div class="image-item">
+          <img src="/images/team-life/20260425-合影.jpg" alt="2026年4月莫干山春游合影">
+        </div>
+      </div>
+      <div class="image-gallery six-images">
+        <div class="image-item">
+          <img src="/images/team-life/20260425-1.JPG" alt="2026年4月莫干山春游活动1">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260425-2.JPG" alt="2026年4月莫干山春游活动2">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260425-3.JPG" alt="2026年4月莫干山春游活动3">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260426-4.JPG" alt="2026年4月莫干山春游活动4">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260425-5.JPG" alt="2026年4月莫干山春游活动5">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260425-6.jpg" alt="2026年4月莫干山春游活动6">
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="timeline-item">
     <div class="timeline-content">
       <h3 class="timeline-date">2025年6月</h3>
