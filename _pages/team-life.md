@@ -25,7 +25,7 @@ author_profile: true
   padding: 8px 25px;
   background-color: white;
   position: relative;
-  border-radius: 12px;
+  border-radius: 0;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   border-left: 4px solid #1565C0;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -94,7 +94,7 @@ author_profile: true
 .image-item {
   position: relative;
   overflow: hidden;
-  border-radius: 8px;
+  border-radius: 0;
   box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
   aspect-ratio: 16/9;
