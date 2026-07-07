@@ -78,6 +78,19 @@ author_profile: true
   grid-template-columns: 1fr;
 }
 
+.image-gallery.three-images {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.image-gallery.three-images .image-item {
+  aspect-ratio: auto;
+}
+
+.image-gallery.three-images .image-item img {
+  height: auto;
+  object-fit: contain;
+}
+
 .image-item {
   position: relative;
   overflow: hidden;
@@ -111,7 +124,8 @@ author_profile: true
   }
   
   .image-gallery.four-images,
-  .image-gallery.six-images {
+  .image-gallery.six-images,
+  .image-gallery.three-images {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
   }
@@ -123,6 +137,31 @@ author_profile: true
 </style>
 
 <div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <h3 class="timeline-date">2026年6月26日</h3>
+      <p class="timeline-description">
+        <span class="celebration-emoji">🎓</span>祝贺时昊博士、蒋奇博士、印晓婷博士顺利毕业！愿他们在未来的人生与科研道路上继续乘风破浪、前程似锦。毕业之际，课题组全体成员一起合影留念，记录这一珍贵时刻。
+      </p>
+      <div class="image-gallery single-image">
+        <div class="image-item">
+          <img src="/images/team-life/20260626-合影.jpg" alt="2026年6月毕业合影">
+        </div>
+      </div>
+      <div class="image-gallery three-images">
+        <div class="image-item">
+          <img src="/images/team-life/20260626-sh.jpg" alt="2026年6月时昊博士毕业照">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260626-jq.jpg" alt="2026年6月蒋奇博士毕业照">
+        </div>
+        <div class="image-item">
+          <img src="/images/team-life/20260626-yxt.jpg" alt="2026年6月印晓婷博士毕业照">
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="timeline-item">
     <div class="timeline-content">
       <h3 class="timeline-date">2026年4月25-26日</h3>
