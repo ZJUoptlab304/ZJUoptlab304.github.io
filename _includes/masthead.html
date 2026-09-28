@@ -3,21 +3,28 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+      <a class="site-title{% if page.url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>{{ site.title }}</a>
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button aria-label="打开导航"><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
+            {% assign nav_title = link.title %}
+            {% assign nav_url = link.url %}
+            {% unless nav_url == '/team-life/' %}
+            {% if nav_url contains 'http' %}
+              {% assign resolved_url = nav_url %}
               {% else %}
-              {% assign domain = base_path %}
+              {% assign resolved_url = nav_url | relative_url %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item{% if page.url == nav_url %} is-active{% endif %}"><a href="{{ resolved_url }}"{% if page.url == nav_url %} aria-current="page"{% endif %}>{{ nav_title }}</a></li>
+            {% endunless %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="site-controls">
+        <a class="featured-nav-link{% if page.url == '/team-life/' %} is-active{% endif %}" href="{{ '/team-life/' | relative_url }}"{% if page.url == '/team-life/' %} aria-current="page"{% endif %}>课题组生活</a>
+      </div>
     </div>
   </div>
 </div>

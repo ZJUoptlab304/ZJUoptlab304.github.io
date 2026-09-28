@@ -2,7 +2,8 @@
 layout: archive
 title: "开源"
 permalink: /open-source/
-author_profile: true
+author_profile: false
+lang: zh
 ---
 
 
@@ -54,4 +55,3 @@ author_profile: true
 
 ### ZJU-RGB-P Dataset
 [HuggingFace](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
-

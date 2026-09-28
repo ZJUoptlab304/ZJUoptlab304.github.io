@@ -15,26 +15,35 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name"><a class="author__name-link" href="{{ '/cv/' | relative_url }}">{{ author.name }}</a></h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">联系方式</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
-        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+        <li class="author-contact">
+          <span class="author-contact__trigger" tabindex="0" aria-label="地址：{{ author.location }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg></span>
+          <span class="author-contact__tooltip" role="tooltip"><strong>地址</strong><span>{{ author.location }}</span></span>
+        </li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li class="author-contact">
+          <span class="author-contact__trigger" tabindex="0" aria-label="单位：{{ author.employer }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 9 9-5 9 5M5 10v8m4-8v8m6-8v8m4-8v8M3 20h18"/></svg></span>
+          <span class="author-contact__tooltip" role="tooltip"><strong>单位</strong><span>{{ author.employer }}</span></span>
+        </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li class="author-contact author-contact--email">
+          <a class="author-contact__trigger" href="mailto:{{ author.email }}" aria-label="发送邮件至 {{ author.email }}"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m4 7 8 6 8-6"/></svg></a>
+          <span class="author-contact__tooltip" role="tooltip"><strong>邮箱</strong><span>{{ author.email }}</span><span class="author-contact__action">发送邮件</span></span>
+        </li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
@@ -42,7 +51,10 @@
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+        <li class="author-contact">
+          <a class="author-contact__trigger" href="{{ author.googlescholar }}" aria-label="Google Scholar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 9 9-5 9 5-9 5-9-5Z"/><path d="M7 12v4c2.5 2.2 7.5 2.2 10 0v-4m4-3v6"/></svg></a>
+          <span class="author-contact__tooltip" role="tooltip"><strong>Google Scholar</strong><span>查看学术主页</span></span>
+        </li>
       {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
@@ -155,4 +167,15 @@
       {% endif %}      
     </ul>
   </div>
+
+  {% if page.url == '/' %}
+  <aside class="author-research" aria-labelledby="author-research-title">
+    <h4 id="author-research-title">研究方向</h4>
+    <ul>
+      <li>自动化光学设计</li>
+      <li>事件相机</li>
+      <li>计算成像</li>
+    </ul>
+  </aside>
+  {% endif %}
 </div>

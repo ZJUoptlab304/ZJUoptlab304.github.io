@@ -5,13 +5,13 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ page.lang | default: site.locale | slice: 0,2 }}" data-theme="light" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="layout--{{ page.layout }}{% if page.url == '/' %} page--home{% endif %}{% unless page.author_profile or layout.author_profile or page.sidebar %} page--no-sidebar{% endunless %}" data-lang="zh">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

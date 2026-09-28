@@ -1,0 +1,18 @@
+{% assign team = site.data.team %}
+<h2 class="section-title">{{ team.current_title.zh }}</h2>
+{% for group in team.groups %}
+  {% if group.alumni %}<h2 class="section-title">{{ group.title.zh }}</h2>{% else %}<h3 class="subsection-title">{{ group.title.zh }}</h3>{% endif %}
+  <div class="member-grid">
+    {% for member in group.members %}
+      <div class="member-card{% if member.graduated %} graduated-member{% endif %}">
+        <div class="member-photo"><img src="{{ member.photo }}" alt="{{ member.name }}"></div>
+        <div class="member-info">
+          <h3>{% if member.url != '' %}<a href="{{ member.url }}" target="_blank" rel="noopener">{{ member.name }} 🔗</a>{% else %}{{ member.name }}{% endif %}</h3>
+          {% if member.grade.zh != '' %}<span class="grade">{{ member.grade.zh }}</span>{% endif %}
+          {% for detail in member.details.zh %}<div class="{{ detail.type }}">{{ detail.text }}</div>{% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+<div class="alumni-info">{% for line in team.alumni_footer.zh %}<p>{{ line }}</p>{% endfor %}</div>

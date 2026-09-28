@@ -1,0 +1,15 @@
+<div class="timeline">
+  {% for event in site.data.lab_life.events %}
+    <div class="timeline-item">
+      <div class="timeline-content">
+        <h3 class="timeline-date">{{ event.date.zh }}</h3>
+        <p class="timeline-description"><span class="celebration-emoji">{{ event.emoji }}</span>{{ event.description.zh }}</p>
+        {% for gallery in event.galleries %}
+          <div class="image-gallery {{ gallery.class }}">
+            {% for image in gallery.images %}<div class="image-item"><img src="{{ image.src }}" alt="{{ image.alt.zh }}"></div>{% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

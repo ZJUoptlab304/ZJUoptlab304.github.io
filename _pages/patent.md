@@ -2,7 +2,8 @@
 layout: archive
 title: "专利"
 permalink: /patent/
-author_profile: true
+author_profile: false
+lang: zh
 ---
 
 

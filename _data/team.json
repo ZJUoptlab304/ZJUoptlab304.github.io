@@ -1,0 +1,1625 @@
+{
+  "hero": {
+    "title": {
+      "zh": "加入我们"
+    },
+    "lines": {
+      "zh": [
+        "无论您来自哪里，国内还是国外",
+        "无论您研究什么方向，硬件、图像处理、优化加速",
+        "都欢迎您的联系，我们期待您的加入"
+      ]
+    },
+    "contact": {
+      "zh": "联系我们"
+    }
+  },
+  "current_title": {
+    "zh": "在读生"
+  },
+  "alumni_footer": {
+    "zh": [
+      "实验室历年培养了众多优秀毕业生",
+      "他们现在活跃在华为、百度、高德、湖南大学、之江实验室等知名企业以及各大高校"
+    ]
+  },
+  "groups": [
+    {
+      "title": {
+        "zh": "博士后"
+      },
+      "alumni": false,
+      "members": [
+        {
+          "name": "胡伟健",
+          "photo": "/images/students/huweijian_2025.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2025级 博士后"
+          },
+          "details": {
+            "zh": []
+          }
+        },
+        {
+          "name": "苏铭洋",
+          "photo": "/images/students/sumingyang.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2026级 博士后"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "sumingyang@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：注塑成型；挤出成型；3D打印成型"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "zh": "博士研究生"
+      },
+      "alumni": false,
+      "members": [
+        {
+          "name": "黄昊宇",
+          "photo": "/images/students/huanghaoyu2.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2022级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "huanghaoyu@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：偏振检测；视觉SLAM"
+              }
+            ]
+          }
+        },
+        {
+          "name": "易中华",
+          "photo": "/images/students/yizhonghua2.gif",
+          "url": "https://yizhonghua.me/bio",
+          "graduated": false,
+          "grade": {
+            "zh": "2022级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "yizhonghua@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：视觉感知"
+              }
+            ]
+          }
+        },
+        {
+          "name": "鲍宇涵",
+          "photo": "/images/students/baoyuhan2.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2022级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "yhbao@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：立体视觉感知"
+              }
+            ]
+          }
+        },
+        {
+          "name": "高尧",
+          "photo": "/images/students/gaoyao.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2023级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22330071@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：端到端光学系统智能化设计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "王路明",
+          "photo": "/images/students/wangluming.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2023级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22330122@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：基于事件相机的人体关键点位置估计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "李文勇",
+          "photo": "/images/students/liwenyong.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2023级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "liwenyong2023@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：机器视觉，光学主动对准"
+              }
+            ]
+          }
+        },
+        {
+          "name": "钱晓龙",
+          "photo": "/images/students/qianxiaolong.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2023级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "xiaolongqian@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：计算光学成像"
+              }
+            ]
+          }
+        },
+        {
+          "name": "郭相飞",
+          "photo": "/images/students/guoxiangfei.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "guoxf@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：3DGS、视觉SLAM、三维重建"
+              }
+            ]
+          }
+        },
+        {
+          "name": "翟家骏",
+          "photo": "/images/students/zhaijiajun.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "jiajunzhai@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        },
+        {
+          "name": "谢书航",
+          "photo": "/images/students/xieshuhang2.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "xieshuhang2002@163.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：计算光学"
+              }
+            ]
+          }
+        },
+        {
+          "name": "戴乐",
+          "photo": "/images/students/daile.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2025级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "daile@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "zh": "硕士研究生"
+      },
+      "alumni": false,
+      "members": [
+        {
+          "name": "杨子鑫",
+          "photo": "/images/students/yangzixin.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22430028@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        },
+        {
+          "name": "余宗玺",
+          "photo": "/images/students/yuzongxi.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "yuzongxi@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：计算成像"
+              }
+            ]
+          }
+        },
+        {
+          "name": "周佳仕",
+          "photo": "/images/students/zhoujiashi.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22460088@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        },
+        {
+          "name": "郑振耀",
+          "photo": "/images/students/zhengzhenyao.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2024级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "zhenyaozheng@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        },
+        {
+          "name": "阙文涛",
+          "photo": "/images/students/quewentao.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2025级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "2325196341@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        },
+        {
+          "name": "王显",
+          "photo": "/images/students/wangxian.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2025级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "xian.wang@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：计算光学成像"
+              }
+            ]
+          }
+        },
+        {
+          "name": "邵晨昕",
+          "photo": "/images/students/shaochenxi.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2025级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "chenxin.shao@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：待定"
+              }
+            ]
+          }
+        },
+        {
+          "name": "朱惠兴",
+          "photo": "/images/students/zhuhuixing.jpg",
+          "url": "https://wuyulunbizhouojielun.github.io/",
+          "graduated": false,
+          "grade": {
+            "zh": "2025级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22530052@zju.edu.cn"
+              }
+            ]
+          }
+        },
+        {
+          "name": "汪欣",
+          "photo": "/images/students/wangxin.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2026级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "superxin.wang@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：强化学习/自动光学设计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "相召晗",
+          "photo": "/images/students/xiangzhaohan.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2026级 专硕"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22630064@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：AI+薄膜设计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "毛永奇",
+          "photo": "/images/students/maoyongqi.jpg",
+          "url": "https://yongxuqixiang.github.io/yongqi/",
+          "graduated": false,
+          "grade": {
+            "zh": "2026级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "yongqimao@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：三维重建、可控生成"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "zh": "毕业生"
+      },
+      "alumni": true,
+      "members": [
+        {
+          "name": "吴阳阳",
+          "photo": "/images/students/wuyangyang.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2014级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：基于图像质量评价的指纹指静脉一体化装置研究"
+              },
+              {
+                "type": "email",
+                "text": "招行信用卡中心"
+              }
+            ]
+          }
+        },
+        {
+          "name": "赵向东",
+          "photo": "/images/students/zhaoxiangdong.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2015级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：非限制条件下的人脸识别技术研究及其在盲人辅助中的应用"
+              },
+              {
+                "type": "email",
+                "text": "华为"
+              }
+            ]
+          }
+        },
+        {
+          "name": "张豫",
+          "photo": "/images/students/zhangyu.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2015级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：基于RGB-D相机的视障人士纸币识别"
+              },
+              {
+                "type": "email",
+                "text": "杭州视氪科技有限公司"
+              }
+            ]
+          }
+        },
+        {
+          "name": "林书妃",
+          "photo": "/images/students/linshufei.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2016级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：基于卷积神经网络的视觉定位技术及其在盲人辅助中的应用"
+              },
+              {
+                "type": "email",
+                "text": "百度"
+              }
+            ]
+          }
+        },
+        {
+          "name": "龙宁波",
+          "photo": "/images/students/longningbo.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2015级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：用于盲人辅助的低功耗毫米波雷达及多传感器融合技术"
+              },
+              {
+                "type": "email",
+                "text": "之江实验室"
+              }
+            ]
+          }
+        },
+        {
+          "name": "白炳岳",
+          "photo": "/images/students/baibingyue.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2016级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1016594034@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：行人检测跟踪"
+              }
+            ]
+          }
+        },
+        {
+          "name": "杨恺伦",
+          "photo": "/images/students/yangkailun.jpg",
+          "url": "http://www.yangkailun.com/",
+          "graduated": true,
+          "grade": {
+            "zh": "2016级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：盲人辅助中的偏振RGB-D传感和全景环带实时语义分割"
+              },
+              {
+                "type": "email",
+                "text": "湖南大学"
+              }
+            ]
+          }
+        },
+        {
+          "name": "程瑞琦",
+          "photo": "/images/students/chengruiqi.jpg",
+          "url": "https://sites.google.com/view/ruiqi-cheng/",
+          "graduated": true,
+          "grade": {
+            "zh": "2015级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：面向视障辅助的视觉定位和交通路口场景感知研究"
+              },
+              {
+                "type": "email",
+                "text": "华为"
+              }
+            ]
+          }
+        },
+        {
+          "name": "胡伟健",
+          "photo": "/images/students/huweijian.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2016级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：面向视障出行辅助的避障和定位技术研究"
+              },
+              {
+                "type": "email",
+                "text": "华为"
+              }
+            ]
+          }
+        },
+        {
+          "name": "陈浩",
+          "photo": "/images/students/chenhao.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2016级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "research",
+                "text": "毕业论文：基于全景环带成像的视觉同步定位与地图构建"
+              },
+              {
+                "type": "email",
+                "text": "高德"
+              },
+              {
+                "type": "email",
+                "text": "xucyshiny@163.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：盲人视觉辅助中的移动端语义场景理解"
+              }
+            ]
+          }
+        },
+        {
+          "name": "费蕾",
+          "photo": "/images/students/feilei.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "leifei@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：适用于盲人视觉辅助的场景文字识别"
+              }
+            ]
+          }
+        },
+        {
+          "name": "王之丰",
+          "photo": "/images/students/wangzhifeng.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "xiaowzf@me.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：全景环带视觉定位"
+              }
+            ]
+          }
+        },
+        {
+          "name": "黄志明",
+          "photo": "/images/students/huangzhiming.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "21730007@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：盲人视觉辅助中透明物体的检测和识别研究"
+              }
+            ]
+          }
+        },
+        {
+          "name": "冯逸鹤",
+          "photo": "/images/students/fengyihe.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "541950462@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：全景环带单目深度估计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "胡鑫欣",
+          "photo": "/images/students/huxinxin.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "hxx_zju@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：RGBD与全景图像语义分割"
+              }
+            ]
+          }
+        },
+        {
+          "name": "李华兵",
+          "photo": "/images/students/lihuabing.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1356687315@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：嵌入式多基线RGB-IR双目立体视觉"
+              }
+            ]
+          }
+        },
+        {
+          "name": "李艳宾",
+          "photo": "/images/students/liyanbin.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "linghugoogle@163.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：基于全景环带相机的混合现实"
+              }
+            ]
+          }
+        },
+        {
+          "name": "孙东明",
+          "photo": "/images/students/sundongming.jpg",
+          "url": "https://www.dongming.io",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "dongmingsun@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：多模态传感器设计与融合"
+              }
+            ]
+          }
+        },
+        {
+          "name": "王娟",
+          "photo": "/images/students/wangjuan.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2017级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "zjuoptwj@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：三维世界的棒状像素表示"
+              }
+            ]
+          }
+        },
+        {
+          "name": "朱临轩",
+          "photo": "/images/students/zhulinxuan.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "zhulinxuan123@gmail.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：双目深度估计算法的FPGA加速"
+              }
+            ]
+          }
+        },
+        {
+          "name": "项凯特",
+          "photo": "/images/students/xiangkaite.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "katexiang@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：语义视觉定位和基于图卷积网络的语义分割"
+              }
+            ]
+          }
+        },
+        {
+          "name": "谢靖",
+          "photo": "/images/students/xiejing.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1501033011@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：基于FPGA的检测算法硬件加速"
+              }
+            ]
+          }
+        },
+        {
+          "name": "方一程",
+          "photo": "/images/students/fangyicheng.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "489472536@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：多层次视觉定位"
+              }
+            ]
+          }
+        },
+        {
+          "name": "沈佳峰",
+          "photo": "/images/students/shenjiafeng.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1979785146@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：跨模态深度估计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "计紫豪",
+          "photo": "/images/students/jizihao.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "839354647@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：跨气象条件语义分割鲁棒性研究"
+              }
+            ]
+          }
+        },
+        {
+          "name": "孙磊",
+          "photo": "/images/students/sunlei.jpg",
+          "url": "https://ahupujr.github.io/",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1843559634@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：语义分割鲁棒性研究"
+              }
+            ]
+          }
+        },
+        {
+          "name": "刘牧青",
+          "photo": "/images/students/liumuqing.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "2328867282@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：语义场景理解技术"
+              }
+            ]
+          }
+        },
+        {
+          "name": "胡子健",
+          "photo": "/images/students/huzijian.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "hzj111@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：毫米波雷达与RGB-D的检测融合"
+              }
+            ]
+          }
+        },
+        {
+          "name": "周科洋",
+          "photo": "/images/students/zhoukeyang.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "zhoukeyang@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：单目深度估计"
+              }
+            ]
+          }
+        },
+        {
+          "name": "张可欣",
+          "photo": "/images/students/zhangkexin.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "2062886981@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：盲人视觉辅助系统"
+              }
+            ]
+          }
+        },
+        {
+          "name": "李国忠",
+          "photo": "/images/students/liguozhong.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "m15005198756@163.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：立体视觉传感技术"
+              }
+            ]
+          }
+        },
+        {
+          "name": "颜冉",
+          "photo": "/images/students/yanran.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "986760069@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：盲人视觉辅助技术"
+              }
+            ]
+          }
+        },
+        {
+          "name": "李增强",
+          "photo": "/images/students/lizengqiang.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2019级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "724104110@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：语义场景理解技术"
+              }
+            ]
+          }
+        },
+        {
+          "name": "孙鹏",
+          "photo": "/images/students/sunpeng.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2020级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1154533233@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "已毕业"
+              }
+            ]
+          }
+        },
+        {
+          "name": "陈家安",
+          "photo": "/images/students/chenjiaan.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2020级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "chenjiaan@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "已毕业"
+              }
+            ]
+          }
+        },
+        {
+          "name": "谢丰凡",
+          "photo": "/images/students/xiefengfan.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2020级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1341159362@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "已毕业"
+              }
+            ]
+          }
+        },
+        {
+          "name": "许新财",
+          "photo": "/images/students/xuxincai.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "xxc1999525@163.com"
+              },
+              {
+                "type": "research",
+                "text": "已毕业"
+              }
+            ]
+          }
+        },
+        {
+          "name": "石泽",
+          "photo": "/images/students/shize.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "shize_std@163.com"
+              },
+              {
+                "type": "research",
+                "text": "已毕业"
+              }
+            ]
+          }
+        },
+        {
+          "name": "刘海斌",
+          "photo": "/images/students/liuhaibin.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "haibinliu@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "已毕业"
+              }
+            ]
+          }
+        },
+        {
+          "name": "卢星宇",
+          "photo": "/images/students/luxingyu.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2022级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "3180102177@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：工业检测"
+              }
+            ]
+          }
+        },
+        {
+          "name": "高少华",
+          "photo": "/images/students/gaoshaohua.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "gaoshaohua@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：全景环境感知"
+              }
+            ]
+          }
+        },
+        {
+          "name": "王泽",
+          "photo": "/images/students/wangze.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2020级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "1213214668@qq.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：VIO; SLAM"
+              }
+            ]
+          }
+        },
+        {
+          "name": "时昊",
+          "photo": "/images/students/shihao.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "HaoShi@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：语义分割；光流估计；视觉SLAM"
+              },
+              {
+                "type": "research",
+                "text": "毕业去向：蚂蚁"
+              }
+            ]
+          }
+        },
+        {
+          "name": "印晓婷",
+          "photo": "/images/students/yinxiaoting.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "yinxiaoting@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：三维重建；人体姿态估计；事件相机"
+              },
+              {
+                "type": "research",
+                "text": "毕业去向：华为"
+              }
+            ]
+          }
+        },
+        {
+          "name": "蒋奇",
+          "photo": "/images/students/jiangqi2.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2021级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "qijiang@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：计算光学，智能成像及其应用"
+              }
+            ]
+          }
+        },
+        {
+          "name": "古頔阳",
+          "photo": "/images/students/guliyang2.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2022级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "22230114@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：事件相机/生成式人工智能"
+              }
+            ]
+          }
+        },
+        {
+          "name": "马雨沁",
+          "photo": "/images/students/mayuqin.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2023级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "mayuqin100@126.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：事件相机/特征跟踪"
+              },
+              {
+                "type": "research",
+                "text": "毕业去向：大疆"
+              }
+            ]
+          }
+        },
+        {
+          "name": "郭尚伟",
+          "photo": "/images/students/guoshangwei.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2023级 硕士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "shangwei_guo@163.com"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：自动驾驶感知"
+              },
+              {
+                "type": "research",
+                "text": "毕业去向：歌尔"
+              }
+            ]
+          }
+        },
+        {
+          "name": "叶耀祖",
+          "photo": "/images/students/yeyaozu.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2018级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "yaozuye@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：图像语义分割及SLAM"
+              }
+            ]
+          }
+        },
+        {
+          "name": "张雨凡",
+          "photo": "/images/students/zhangyufan.jpg",
+          "url": "",
+          "graduated": true,
+          "grade": {
+            "zh": "2020级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "zhangyufan@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：全景视觉SLAM"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

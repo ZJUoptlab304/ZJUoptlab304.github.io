@@ -1,0 +1,37 @@
+{% assign publication_groups = site.data.publications.groups %}
+{% for group in publication_groups %}
+<details{% if forloop.first %} open{% endif %}>
+  <summary><h2>{{ group.year }}年</h2></summary>
+  <ul>
+    {% for publication in group.items %}
+    <li>
+      <article class="publication-card" id="{{ publication.key }}">
+        <h3 class="publication-title">{{ publication.title }}</h3>
+        {% if publication.authors.size > 0 %}
+        <p class="publication-authors">
+          {% for author in publication.authors %}{% if forloop.index > 1 %}, {% endif %}{% if author.owner %}<span class="publication-author-owner">{{ author.name }}</span>{% else %}{{ author.name }}{% endif %}{% endfor %}
+        </p>
+        {% endif %}
+        {% if publication.venue != "" %}<p class="publication-venue">{{ publication.venue }}</p>{% endif %}
+        <div class="publication-actions">
+          {% if publication.award != "" %}<span class="publication-award">{{ publication.award }}</span>{% endif %}
+          {% for link in publication.links %}<a class="publication-link" href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+          <button class="publication-bibtex-toggle" type="button" aria-expanded="false" aria-controls="bibtex-{{ publication.key }}" data-bibtex-toggle>
+            <span aria-hidden="true">📖</span> BibTeX
+          </button>
+        </div>
+        <div class="publication-bibtex" id="bibtex-{{ publication.key }}" data-bibtex-panel hidden>
+          <div class="publication-bibtex__header">
+            <span>BibTeX</span>
+            <button class="publication-bibtex__copy" type="button" data-bibtex-copy aria-label="复制 BibTeX">
+              <span aria-hidden="true">⧉</span><span data-copy-label>复制</span>
+            </button>
+          </div>
+          <pre><code>{{ publication.bibtex | escape }}</code></pre>
+        </div>
+      </article>
+    </li>
+    {% endfor %}
+  </ul>
+</details>
+{% endfor %}

@@ -1,13 +1,16 @@
 # main links links
 main:
 
+  - title: "个人简历"
+    url: /cv/
+
   - title: "成员"
     url: /team/
 
   - title: "动态"
     url: /year-archive/  
 
-  - title: "出版"
+  - title: "论文"
     url: /publications/
 
   - title: "专利"
@@ -25,9 +28,6 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-    
-  # - title: "CV"
-  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
