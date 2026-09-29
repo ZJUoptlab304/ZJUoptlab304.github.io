@@ -301,6 +301,27 @@
               }
             ]
           }
+        },
+        {
+          "name": "严劭辰",
+          "photo": "/images/students/yanshaochen.jpg",
+          "url": "",
+          "graduated": false,
+          "grade": {
+            "zh": "2026级 博士"
+          },
+          "details": {
+            "zh": [
+              {
+                "type": "email",
+                "text": "12630086@zju.edu.cn"
+              },
+              {
+                "type": "research",
+                "text": "研究方向：计算光学成像"
+              }
+            ]
+          }
         }
       ]
     },
