@@ -48,13 +48,13 @@ redirect_from:
         <div class="publication-actions featured-paper__actions">
           <a class="publication-link" href="https://doi.org/10.1109/TIP.2024.3463409">DOI</a>
           <a class="publication-link" href="https://github.com/MasterHow/CoBEV">GitHub</a>
-          <button class="publication-bibtex-toggle" type="button" aria-expanded="false" aria-controls="home-bibtex-pub2024-011" data-bibtex-toggle><span aria-hidden="true">📖</span> BibTeX</button>
+          <span class="featured-bibtex-copy">
+            <button class="featured-bibtex-copy__button" type="button" data-featured-bibtex-copy><span aria-hidden="true">📖</span> BibTeX</button>
+            <span class="featured-bibtex-copy__feedback" data-featured-copy-feedback role="status" aria-live="polite"></span>
+          </span>
         </div>
       </div>
-      <div class="publication-bibtex" id="home-bibtex-pub2024-011" data-bibtex-panel hidden>
-        <div class="publication-bibtex__header"><span>BibTeX</span><button class="publication-bibtex__copy" type="button" data-bibtex-copy aria-label="复制 CoBEV BibTeX"><span aria-hidden="true">⧉</span><span data-copy-label>复制</span></button></div>
-        <pre><code>{{ featured_cobev.bibtex | escape }}</code></pre>
-      </div>
+      <span data-featured-bibtex-source hidden>{{ featured_cobev.bibtex | escape }}</span>
     </article>
 
     <article class="featured-paper">
@@ -69,13 +69,13 @@ redirect_from:
         <div class="publication-actions featured-paper__actions">
           <a class="publication-link" href="https://doi.org/10.1007/978-3-031-73001-6_4">DOI</a>
           <a class="publication-link" href="https://github.com/YuHanBaozju/EvTemMap">GitHub</a>
-          <button class="publication-bibtex-toggle" type="button" aria-expanded="false" aria-controls="home-bibtex-pub2024-002" data-bibtex-toggle><span aria-hidden="true">📖</span> BibTeX</button>
+          <span class="featured-bibtex-copy">
+            <button class="featured-bibtex-copy__button" type="button" data-featured-bibtex-copy><span aria-hidden="true">📖</span> BibTeX</button>
+            <span class="featured-bibtex-copy__feedback" data-featured-copy-feedback role="status" aria-live="polite"></span>
+          </span>
         </div>
       </div>
-      <div class="publication-bibtex" id="home-bibtex-pub2024-002" data-bibtex-panel hidden>
-        <div class="publication-bibtex__header"><span>BibTeX</span><button class="publication-bibtex__copy" type="button" data-bibtex-copy aria-label="复制 Temporal-mapping BibTeX"><span aria-hidden="true">⧉</span><span data-copy-label>复制</span></button></div>
-        <pre><code>{{ featured_temporal.bibtex | escape }}</code></pre>
-      </div>
+      <span data-featured-bibtex-source hidden>{{ featured_temporal.bibtex | escape }}</span>
     </article>
 
     <article class="featured-paper">
@@ -90,13 +90,13 @@ redirect_from:
         <div class="publication-actions featured-paper__actions">
           <a class="publication-link" href="https://doi.org/10.1109/TCI.2025.3544019">DOI</a>
           <a class="publication-link" href="https://github.com/XiaolongQian/DCDI">GitHub</a>
-          <button class="publication-bibtex-toggle" type="button" aria-expanded="false" aria-controls="home-bibtex-pub2025-004" data-bibtex-toggle><span aria-hidden="true">📖</span> BibTeX</button>
+          <span class="featured-bibtex-copy">
+            <button class="featured-bibtex-copy__button" type="button" data-featured-bibtex-copy><span aria-hidden="true">📖</span> BibTeX</button>
+            <span class="featured-bibtex-copy__feedback" data-featured-copy-feedback role="status" aria-live="polite"></span>
+          </span>
         </div>
       </div>
-      <div class="publication-bibtex" id="home-bibtex-pub2025-004" data-bibtex-panel hidden>
-        <div class="publication-bibtex__header"><span>BibTeX</span><button class="publication-bibtex__copy" type="button" data-bibtex-copy aria-label="复制 DCDI BibTeX"><span aria-hidden="true">⧉</span><span data-copy-label>复制</span></button></div>
-        <pre><code>{{ featured_dcdi.bibtex | escape }}</code></pre>
-      </div>
+      <span data-featured-bibtex-source hidden>{{ featured_dcdi.bibtex | escape }}</span>
     </article>
   </div>
 </section>
